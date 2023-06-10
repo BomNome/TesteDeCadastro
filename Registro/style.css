@@ -1,0 +1,34 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#header{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(99, 37, 85);
+    padding: 20px;
+}
+h1{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.info{
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
+}
+.centralizer{
+    display: flex;
+    justify-content: center;
+}
+.sep{
+    padding: 60px;
+}
+.but{
+    display: flex;
+    justify-content: center;
+}
+#but{
+    padding: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
